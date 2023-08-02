@@ -1,7 +1,8 @@
 shopping list:
 
 apple
-ornages
+oranges
 banana
 cherries
 carrots
+Cereal
